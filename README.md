@@ -1,3 +1,12 @@
+# Competent Programming - Welcome to the git repository
+
+Join me - in different social media. I would be glad to have any kind of support from you.
+
+[Instagram:](https://www.instagram.com/dmitriy.horytsan/)
+[Twitter:](https://twitter.com/competent_dev)
+[Discord:](https://discord.gg/DhRcGRBfRTv)
+
+
 # Frontend Mentor - Todo app
 
 ![Design preview for the Todo app coding challenge](./design/desktop-preview.jpg)
